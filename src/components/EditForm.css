@@ -1,0 +1,20 @@
+.buttonEdit {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+    background: #007E3E;
+    display: inline-block;
+}
+.buttonSave {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+    background: #007E3E;
+    display: inline-block;
+}

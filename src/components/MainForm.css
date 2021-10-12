@@ -1,6 +1,23 @@
 .formBlock{
-   background-color: dimgrey;
+   text-align: left;
+   margin: auto;
+   padding-left: 30px;
 }
-.item {
-  
+.formBlock description {
+padding-bottom: 20px;
+}
+.options {
+   padding-top: 20px;
+}
+.original {
+   padding-top: 20px;
+}
+.garage {
+   padding-top: 20px;
+}
+.image {
+  margin: 0;
+}
+.title {
+   font-family: Cambria;
 }
